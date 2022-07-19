@@ -1,0 +1,25 @@
+{
+  "name": "recipe-finding-app",
+  "version": "1.0.0",
+  "description": "Search and find recipes ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishesh-baghel/Recipe-finding-app.git"
+  },
+  "author": "Vishesh Baghel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishesh-baghel/Recipe-finding-app/issues"
+  },
+  "homepage": "https://github.com/vishesh-baghel/Recipe-finding-app#readme",
+  "dependencies": {
+    "parcel": "^2.6.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2"
+  }
+}
