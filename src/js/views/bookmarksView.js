@@ -7,6 +7,10 @@ class bookMarksView extends View {
   _message = '';
   _parentElement = document.querySelector('.bookmarks__list');
 
+  addhandlerRender(handler) {
+    window.addEventListener('load', handler);
+  }
+
   _generateMarkup() {
     return this._data
       .map(bookmark => previewView.render(bookmark, false))
