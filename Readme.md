@@ -13,29 +13,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://forkify-by-pawanjs.netlify.app/">
-    <img src="./src/img/logo.png" alt="Logo" width="100%" height="100%">
-  </a>
-
-  <h3 align="center">Forkify</h3>
-
-  <p align="center">
-    A recipe search application made with javascript.
-    <br />
-    <a href="#about-the-project"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://forkify-by-pawanjs.netlify.app/">View Demo</a>
-    ·
-    <a href="https://github.com/PawanJS/forkify/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/PawanJS/forkify/issues">Request Feature</a>
-  </p>
-</p>
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -170,14 +147,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-Pawan JS - [Say Hie](https://www.pawanjs.com/)
-
-Project Link: [https://github.com/PawanJS/forkify](https://github.com/PawanJS/forkify)
 
 <!-- ACKNOWLEDGEMENTS -->
 
