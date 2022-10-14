@@ -159,15 +159,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/PawanJS/forkify?color=green&style=for-the-badge
-[contributors-url]: https://github.com/PawanJS/forkify/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PawanJS/forkify?style=for-the-badge
-[forks-url]: https://github.com/PawanJS/forkify/network/members
-[pull-requests-shield]: https://img.shields.io/github/issues-pr/PawanJS/forkify?style=for-the-badge
-[pull-requests-url]: https://github.com/PawanJS/forkify/pulls
-[issues-shield]: https://img.shields.io/bitbucket/issues/PawanJS/forkify?style=for-the-badge
-[issues-url]: https://github.com/PawanJS/forkify/issues
-[license-shield]: https://img.shields.io/apm/l/vim-mode?label=LICENSE&style=for-the-badge
-[license-url]: https://github.com/PawanJS/forkify/blob/master/LICENSE.txt
-[product-screenshot]: ./src/img/screenshot.jpg
